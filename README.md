@@ -65,14 +65,3 @@ The interactive dashboard can be viewed on Tableau Public:
 👉 **[View Dashboard on Tableau Public](PASTE_TABLEAU_LINK_HERE)**
 
 ---
-
-## Repository Structure
-├── sql/
-│ ├── clean_consumer_spending.sql
-│ ├── clean_inflation.sql
-│ ├── clean_interest_rates.sql
-│ └── build_final_dataset.sql
-├── images/
-│ ├── dashboard_overview.png
-│ └── inflation_vs_spending_growth.png
-└── README.md
