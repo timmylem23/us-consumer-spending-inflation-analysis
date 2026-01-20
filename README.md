@@ -33,6 +33,7 @@ The following steps were performed in SQL:
 - Filtered to a consistent monthly time range
 - Created month-over-month percentage change metrics for analytical comparison
 - Joined cleaned datasets into a single analysis-ready table
+- Credit card delinquency data is reported quarterly and was preserved at its native frequency. A monthly-aligned version was created via quarter-level forward filling for visualization purposes only.
 
 All SQL cleaning scripts are available in the `/sql` directory.
 
